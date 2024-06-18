@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoFrame Application</string>
+    <string name="heading">Dynamic And Stylish Photo Frames</string>
+    <string name="todo1">TODO</string>
+    <string name="pre">Previous</string>
+    <string name="next">Next</string>
+</resources>
